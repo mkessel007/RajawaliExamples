@@ -2,7 +2,7 @@
 <resources>
 
     <!-- App Base -->
-    <string name="app_name">Rajawali Examples</string>
+    <string name="app_name">Mikey\'s Raj Examples</string>
     <string name="empty"></string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
